@@ -1,5 +1,3 @@
-<h1 align="center">Welcome!</h1>
-<h3 align="center">Take a seat, there's coffee on the table</h2>
 <img src="rm.gif"><br><br>
 
 <a href="https://github.com/vitorquadros/github-readme-stats">
