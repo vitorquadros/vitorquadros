@@ -1,15 +1,14 @@
-<img src="rm.gif"><br><br>
+# Welcome, take a seat!
 
-<a href="https://github.com/vitorquadros/github-readme-stats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitorquadros&theme=synthwave&hide_title=true">
-  </p
-</a>
+<img src="rm.gif" width="800"><br>
+
+<div>
+  <a href="https://github.com/vitorquadros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorquadros&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorquadros&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+
 <br>
-<br>
-<a href="https://github.com/vitorquadros/github-readme-stats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorquadros&theme=tokyonight&hide_title=true">
-  </p>
-</a>
+  
+![Snake animation](https://github.com/vitorquadros/vitorquadros/blob/output/github-contribution-grid-snake.svg)
 
