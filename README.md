@@ -10,5 +10,5 @@
 
 <br>
   
-![Snake animation](https://github.com/vitorquadros/vitorquadros/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/vitorquadros/vitorquadros/blob/output/github-contribution-grid-snake.svg) -->
 
