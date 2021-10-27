@@ -1,6 +1,4 @@
-# Welcome, take a seat!
-
-<img src="rm.gif" width="800"><br>
+# Welcome!
 
 <div>
   <a href="https://github.com/vitorquadros">
