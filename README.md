@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-     <img src="">
-     <img src="">
-     <img src="">
-     <img src="">
 </div>
 
 <h3 align="center">Technologies I use:</h3>
