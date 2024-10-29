@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4d0000"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b30000"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4d0000&center=true&width=1000&lines=Welcome!+I'm+Vitor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=b30000&center=true&width=1000&lines=Welcome!+I'm+Vitor)](https://git.io/typing-svg)
 
 <hr />
 
 <div align="center">
     
-  🎓 Degree in Internet Systems<br>
-  💻 Developer focused on Frontend<br>
+  🎓 <strong>Degree in Internet Systems<br>
+  💻 Developer focused on Frontend<br></strong>
 
 </div>
 
-<h3 align="center" style="color: #4d0000">Main Skills:</h3>
+<h3 align="center">Main Skills:</h3>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -23,7 +23,7 @@
      <img src="">
 </div>
 
-<h3 align="center" style="color: #4d0000">Technologies I use:</h3>
+<h3 align="center">Technologies I use:</h3>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
