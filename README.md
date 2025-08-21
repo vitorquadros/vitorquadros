@@ -7,20 +7,30 @@
 <div align="center">
     
   🎓 <strong>Degree in Internet Systems<br>
-  💻 Developer focused on Frontend<br></strong>
+  💻 Software Engineer<br></strong>
 
 </div>
 
-<h3 align="center">Main Skills:</h3>
+<h3 align="center">I Develop For:</h3>
 <div display="flex" align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+    <img src="https://img.shields.io/badge/web-06402B?style=for-the-badge&logo=GoogleChrome&logoColor=white"> 
 </div>
 
-<h3 align="center">Technologies I use:</h3>
+<h3 align="center">Main Technologies:</h3>
 <div display="flex" align="center">
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/swift_ui-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</div>
+
+<h3 align="center">Tech Stack:</h3>
+<div display="flex" align="center">
+  <img src="https://img.shields.io/badge/UIKIT-F54A2A?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/SWIFT_DATA-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
